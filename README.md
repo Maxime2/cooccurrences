@@ -4,3 +4,4 @@ The data structure in this small program allows to calculate relative frequencie
 cooccurencies within a set window of words; counts for the first word in the pair checking.
 Also this structure holds a prefix tree of the words in the processing text, which also can be used.
 
+See more info here: [blog.dataparksearch.org/632](http://blog.dataparksearch.org/632)
